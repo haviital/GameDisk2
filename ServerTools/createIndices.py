@@ -40,8 +40,8 @@ def CreateRootIndex():
 	# "list": [
 
 	file.write("{\n")
-	file.write('"path":"https://raw.githubusercontent.com/haviital/' + rootFolderName + '/master"\n')
-	file.write('"timestamp":"' + str(maxOfMaxTimestampsInt) + '"\n')
+	file.write('"path":"https://raw.githubusercontent.com/haviital/' + rootFolderName + '/master",\n')
+	file.write('"timestamp":"' + str(maxOfMaxTimestampsInt) + '",\n')
 	file.write('"list": [\n')
 
 	# write the folders
@@ -214,8 +214,8 @@ def CreateSubdirIndices():
 		# "list": [
 
 		file.write("{\n")
-		file.write('"path":"https://raw.githubusercontent.com/haviital/' + rootFolderName + '/master/' + dir +'"\n')
-		file.write('"timestamp":"' + str(maxTimeSinceEpochInSecInt) + '"\n')
+		file.write('"path":"https://raw.githubusercontent.com/haviital/' + rootFolderName + '/master/' + dir +'",\n')
+		file.write('"timestamp":"' + str(maxTimeSinceEpochInSecInt) + '",\n')
 		file.write('"list": [\n')
 		print("!!HV", dir, str(maxTimeSinceEpochInSecInt))
 
@@ -300,8 +300,8 @@ def CreateLatestSubdirIndex(allGamesList, dir, rootFolderName):
 	# "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/0Action", 
 	# "list": [
 	file.write("{\n")
-	file.write('"path":"https://raw.githubusercontent.com/haviital/' + rootFolderName + '/master/' + dir +'"\n')
-	file.write('"timestamp":"' + maxTimestamp + '"\n')
+	file.write('"path":"https://raw.githubusercontent.com/haviital/' + rootFolderName + '/master/' + dir +'",\n')
+	file.write('"timestamp":"' + maxTimestamp + '",\n')
 	file.write('"list": [\n')
 	#print("!!HV", dir, str(maxTimeSinceEpochInSecInt))
 
