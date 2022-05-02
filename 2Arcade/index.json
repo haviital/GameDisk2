@@ -1,6 +1,6 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/2Arcade",
-"timestamp":"1650225381",
+"timestamp":"1651487147",
 "list": [
    {
       "type": "plz",
@@ -91,6 +91,12 @@
       "title": "RAYNE2v11",
       "file": "RAYNE2v11.plz",
       "timestamp": "1649413976"
+   },
+   {
+      "type": "bin",
+      "title": "RainCat",
+      "file": "RainCat.bin",
+      "timestamp": "1651487147"
    },
    {
       "type": "plz",

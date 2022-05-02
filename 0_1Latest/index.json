@@ -1,7 +1,14 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/0_1Latest",
-"timestamp":"1650225382",
+"timestamp":"1651487147",
 "list": [
+   {
+      "type": "link",
+      "title": "RainCat",
+      "file": "RainCat.bin",
+      "folder": "2Arcade",
+      "timestamp": "1651487147"
+   },
    {
       "type": "link",
       "title": "NanoPhageZero",
@@ -48,13 +55,6 @@
       "type": "link",
       "title": "Regicide",
       "file": "Regicide.plz",
-      "folder": "6Strategy",
-      "timestamp": "1650225382"
-   },
-   {
-      "type": "link",
-      "title": "MiniRogue",
-      "file": "MiniRogue.plz",
       "folder": "6Strategy",
       "timestamp": "1650225382"
    }
