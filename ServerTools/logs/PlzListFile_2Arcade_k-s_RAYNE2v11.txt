@@ -1,1 +1,0 @@
-file: "/home/hannu/git/GameDisk2/2Arcade_k-s/RAYNE2v11.pop" --> "2Arcade_k-s/RAYNE2v11.pop"

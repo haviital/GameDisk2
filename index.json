@@ -1,12 +1,12 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master",
-"timestamp":"1651586900",
+"timestamp":"1651487147",
 "list": [
    {
       "type": "dir",
       "dirtitle": "Latest",
       "file": "0_1Latest",
-      "timestamp": "1651586900"
+      "timestamp": "1651487147"
    },
    {
       "type": "dir",
@@ -16,81 +16,45 @@
    },
    {
       "type": "dir",
-      "dirtitle": "Action 1-l",
-      "file": "0Action_1_l",
-      "timestamp": "1651586897"
-   },
-   {
-      "type": "dir",
-      "dirtitle": "Action m-p",
-      "file": "0Action_m_p",
-      "timestamp": "1651586897"
-   },
-   {
-      "type": "dir",
-      "dirtitle": "Action s-z",
-      "file": "0Action_s_z",
-      "timestamp": "1651586897"
+      "dirtitle": "Action",
+      "file": "0Action",
+      "timestamp": "1650225381"
    },
    {
       "type": "dir",
       "dirtitle": "Adventure",
       "file": "1Adventure",
-      "timestamp": "1651586897"
+      "timestamp": "1650225381"
    },
    {
       "type": "dir",
-      "dirtitle": "Arcade 1-d",
-      "file": "2Arcade_1_d",
-      "timestamp": "1651586898"
-   },
-   {
-      "type": "dir",
-      "dirtitle": "Arcade f-p",
-      "file": "2Arcade_f_p",
-      "timestamp": "1651586898"
-   },
-   {
-      "type": "dir",
-      "dirtitle": "Arcade r-z",
-      "file": "2Arcade_r_z",
-      "timestamp": "1651586898"
+      "dirtitle": "Arcade",
+      "file": "2Arcade",
+      "timestamp": "1651487147"
    },
    {
       "type": "dir",
       "dirtitle": "Platformer",
       "file": "3Platformer",
-      "timestamp": "1651586899"
+      "timestamp": "1649413978"
    },
    {
       "type": "dir",
-      "dirtitle": "Puzzle 1-l",
-      "file": "4Puzzle_1_l",
-      "timestamp": "1651586899"
-   },
-   {
-      "type": "dir",
-      "dirtitle": "Puzzle m-p",
-      "file": "4Puzzle_m_p",
-      "timestamp": "1651586899"
-   },
-   {
-      "type": "dir",
-      "dirtitle": "Puzzle r-z",
-      "file": "4Puzzle_r_z",
-      "timestamp": "1651586900"
+      "dirtitle": "Puzzle",
+      "file": "4Puzzle",
+      "timestamp": "1650225382"
    },
    {
       "type": "dir",
       "dirtitle": "Racing",
       "file": "5Racing",
-      "timestamp": "1651586900"
+      "timestamp": "1650225382"
    },
    {
       "type": "dir",
       "dirtitle": "Strategy",
       "file": "6Strategy",
-      "timestamp": "1651586900"
+      "timestamp": "1650225382"
    },
    {
       "type": "dir",
@@ -102,7 +66,7 @@
       "type": "dir",
       "dirtitle": "Utils",
       "file": "8Utils",
-      "timestamp": "1651586900"
+      "timestamp": "1649413979"
    }
 ]
 }

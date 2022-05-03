@@ -1,1 +1,0 @@
-file: "/home/hannu/git/GameDisk2/4Puzzle_r_z/yatt.pop" --> "4Puzzle_r_z/yatt.pop"

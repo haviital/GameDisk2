@@ -1,62 +1,62 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/0_1Latest",
-"timestamp":"1651586900",
+"timestamp":"1651487147",
 "list": [
    {
       "type": "link",
-      "title": "Sensitive",
-      "file": "Sensitive.plz",
-      "folder": "4Puzzle_r_z",
-      "timestamp": "1651586900"
+      "title": "RainCat",
+      "file": "RainCat.bin",
+      "folder": "2Arcade",
+      "timestamp": "1651487147"
    },
    {
       "type": "link",
-      "title": "raquermete",
-      "file": "raquermete.plz",
-      "folder": "4Puzzle_r_z",
-      "timestamp": "1651586900"
+      "title": "NanoPhageZero",
+      "file": "NanoPhageZero.plz",
+      "folder": "4Puzzle",
+      "timestamp": "1650225382"
    },
    {
       "type": "link",
-      "title": "yatt",
-      "file": "yatt.plz",
-      "folder": "4Puzzle_r_z",
-      "timestamp": "1651586900"
+      "title": "LightsOut",
+      "file": "LightsOut.plz",
+      "folder": "4Puzzle",
+      "timestamp": "1650225382"
    },
    {
       "type": "link",
-      "title": "uforace",
-      "file": "uforace.plz",
-      "folder": "5Racing",
-      "timestamp": "1651586900"
+      "title": "PiCross",
+      "file": "PiCross.plz",
+      "folder": "4Puzzle",
+      "timestamp": "1650225382"
+   },
+   {
+      "type": "link",
+      "title": "Pok15",
+      "file": "Pok15.plz",
+      "folder": "4Puzzle",
+      "timestamp": "1650225382"
+   },
+   {
+      "type": "link",
+      "title": "MineSweeper",
+      "file": "MineSweeper.plz",
+      "folder": "4Puzzle",
+      "timestamp": "1650225382"
    },
    {
       "type": "link",
       "title": "RoadTrip",
       "file": "RoadTrip.plz",
       "folder": "5Racing",
-      "timestamp": "1651586900"
+      "timestamp": "1650225382"
    },
    {
       "type": "link",
-      "title": "PokitGP",
-      "file": "PokitGP.plz",
-      "folder": "5Racing",
-      "timestamp": "1651586900"
-   },
-   {
-      "type": "link",
-      "title": "nbattle",
-      "file": "nbattle.plz",
+      "title": "Regicide",
+      "file": "Regicide.plz",
       "folder": "6Strategy",
-      "timestamp": "1651586900"
-   },
-   {
-      "type": "link",
-      "title": "AwakenJavaofthedeadjam",
-      "file": "AwakenJavaofthedeadjam.plz",
-      "folder": "6Strategy",
-      "timestamp": "1651586900"
+      "timestamp": "1650225382"
    }
 ]
 }

@@ -1,1 +1,0 @@
-file: "/home/hannu/git/GameDisk2/2Arcade_k_s/pysco84.pop" --> "2Arcade_k_s/pysco84.pop"

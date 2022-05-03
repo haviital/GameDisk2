@@ -6,25 +6,16 @@ import struct
 import time
 import subprocess
 
-# CONSTANTS
-MAX_NUM_FILES_IN_FOLDER = 16 
-
 
 # Note the folder name can be max 12 chars, and max 15 folders can exist. This is a memory optimization in PokArcade.
 defaultFolderList = [
 	["0_1Latest", "Latest"],
 	["0_2Notes", "News"],
-	["0Action_1_l", "Action 1-l"],
-	["0Action_m_p", "Action m-p"],
-	["0Action_s_z", "Action s-z"],
+	["0Action", "Action"],
 	["1Adventure", "Adventure"],
-	["2Arcade_1_d", "Arcade 1-d"],
-	["2Arcade_f_p", "Arcade f-p"],
-	["2Arcade_r_z", "Arcade r-z"],
+	["2Arcade", "Arcade"],
 	["3Platformer", "Platformer"],
-	["4Puzzle_1_l", "Puzzle 1-l"],
-	["4Puzzle_m_p", "Puzzle m-p"],
-	["4Puzzle_r_z", "Puzzle r-z"],
+	["4Puzzle", "Puzzle"],
 	["5Racing", "Racing"],
 	["6Strategy", "Strategy"],
 	["7Demos", "Demos"],
@@ -58,6 +49,8 @@ def CreateRootIndex():
 		folderName = defaultFolderList[i][0]
 		prettyName = defaultFolderList[i][1]
 		timestamp = defaultFolderList[i][2]
+
+
 
 		# Write a folder record, e.g.
 		#{ 
@@ -137,19 +130,18 @@ def CreateSubdirIndices():
 		dir = folderListItem[0]
 		print(dir)
 
-		# Skip the "latest" folder for now as it is created at last
+		# Skip the latest folder for now as it is created at last
 		if folderListIndex==0: 
 			continue
 			
 		isNotesForlder = False
 		if dir=="Notes": isNotesForlder = True
 		
-		# Get the list of files in the subfolder
 		subdirPath = rootDir+"/"+dir
 		fileListAll = os.listdir(subdirPath)
 		print(fileListAll)
 
-		# *** iterate over the files and folders in this subdir
+		# *** iterate over the files and folders the this subdir
 		
 		# Drop other files than *.bin and *.pop
 		fileList = []
@@ -214,19 +206,7 @@ def CreateSubdirIndices():
 		
 		# *** Write the subfolder info to the own index.json.
 
-		# if there are more that MAX_NUM_FILES_IN_FOLDER files
-		# start to "renumbering" index.json files.
-		indexJsonSuffix = 0
-		if len(fileList) > MAX_NUM_FILES_IN_FOLDER:
-			indexJsonSuffix = 1
-
-		indexJsonName = "index.json"
-		#if indexJsonSuffix>0:
-		#	indexJsonName += "_"+str(indexJsonSuffix)
-		#	# TODO add indexJsonName to the main list
-		#
-
-		file = open("../"+dir+"/"+indexJsonName, "w")
+		file = open("../"+dir+"/index.json", "w")
 
 		# Write the header, e.g.
 		# {
