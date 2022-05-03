@@ -1,0 +1,54 @@
+{
+"path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/4Puzzle_r_z",
+"timestamp":"1651586900",
+"list": [
+   {
+      "type": "plz",
+      "title": "Sensitive",
+      "file": "Sensitive.plz",
+      "timestamp": "1651586900"
+   },
+   {
+      "type": "plz",
+      "title": "TheHex",
+      "file": "TheHex.plz",
+      "timestamp": "1651586899"
+   },
+   {
+      "type": "plz",
+      "title": "YATZY2",
+      "file": "YATZY2.plz",
+      "timestamp": "1651586899"
+   },
+   {
+      "type": "plz",
+      "title": "raquermete",
+      "file": "raquermete.plz",
+      "timestamp": "1651586900"
+   },
+   {
+      "type": "bin",
+      "title": "slime",
+      "file": "slime.bin",
+      "timestamp": "1590499010"
+   },
+   {
+      "type": "plz",
+      "title": "squiddy",
+      "file": "squiddy.plz",
+      "timestamp": "1651586899"
+   },
+   {
+      "type": "plz",
+      "title": "vocfi",
+      "file": "vocfi.plz",
+      "timestamp": "1651586899"
+   },
+   {
+      "type": "plz",
+      "title": "yatt",
+      "file": "yatt.plz",
+      "timestamp": "1651586900"
+   }
+]
+}

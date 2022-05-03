@@ -1,60 +1,60 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/6Strategy",
-"timestamp":"1650225382",
+"timestamp":"1651586900",
 "list": [
    {
       "type": "plz",
       "title": "AwakenJavaofthedeadjam",
       "file": "AwakenJavaofthedeadjam.plz",
-      "timestamp": "1649413979"
+      "timestamp": "1651586900"
    },
    {
       "type": "plz",
       "title": "DarkTrails",
       "file": "DarkTrails.plz",
-      "timestamp": "1650225382"
+      "timestamp": "1651586900"
    },
    {
       "type": "plz",
       "title": "Euchre",
       "file": "Euchre.plz",
-      "timestamp": "1650225382"
+      "timestamp": "1651586900"
    },
    {
       "type": "plz",
       "title": "MiniRogue",
       "file": "MiniRogue.plz",
-      "timestamp": "1650225382"
+      "timestamp": "1651586900"
    },
    {
       "type": "plz",
       "title": "Regicide",
       "file": "Regicide.plz",
-      "timestamp": "1650225382"
+      "timestamp": "1651586900"
    },
    {
       "type": "plz",
       "title": "Scopa",
       "file": "Scopa.plz",
-      "timestamp": "1650225382"
+      "timestamp": "1651586900"
    },
    {
       "type": "plz",
       "title": "SteamRocketGlider",
       "file": "SteamRocketGlider.plz",
-      "timestamp": "1650225382"
+      "timestamp": "1651586900"
    },
    {
       "type": "plz",
       "title": "nbattle",
       "file": "nbattle.plz",
-      "timestamp": "1649413979"
+      "timestamp": "1651586900"
    },
    {
       "type": "plz",
       "title": "tazs-javitto",
       "file": "tazs-javitto.plz",
-      "timestamp": "1649413979"
+      "timestamp": "1651586900"
    }
 ]
 }
