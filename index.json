@@ -28,9 +28,21 @@
    },
    {
       "type": "dir",
-      "dirtitle": "Arcade",
-      "file": "2Arcade",
+      "dirtitle": "Arcade 1-i",
+      "file": "2Arcade_1-i",
+      "timestamp": "1650225381"
+   },
+   {
+      "type": "dir",
+      "dirtitle": "Arcade k-s",
+      "file": "2Arcade_k-s",
       "timestamp": "1651487147"
+   },
+   {
+      "type": "dir",
+      "dirtitle": "Arcade s-z",
+      "file": "2Arcade_s-z",
+      "timestamp": "1650225381"
    },
    {
       "type": "dir",
