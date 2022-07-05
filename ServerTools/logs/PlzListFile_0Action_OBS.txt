@@ -1,0 +1,2 @@
+file: "/home/hannu/git/GameDisk2/0Action/OBS.pop" --> "0Action/OBS.pop"
+file: "/home/hannu/git/GameDisk2/0Action/OBS_data/music/OBS_00.raw" --> "music/OBS_00.raw"
