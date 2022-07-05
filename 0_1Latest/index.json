@@ -1,62 +1,62 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/0_1Latest",
-"timestamp":"1651487147",
+"timestamp":"1657014550",
 "list": [
    {
       "type": "link",
-      "title": "RainCat",
-      "file": "RainCat.bin",
+      "title": "Karateka",
+      "file": "Karateka.plz",
       "folder": "2Arcade",
-      "timestamp": "1651487147"
+      "timestamp": "1657014550"
    },
    {
       "type": "link",
-      "title": "NanoPhageZero",
-      "file": "NanoPhageZero.plz",
-      "folder": "4Puzzle",
-      "timestamp": "1650225382"
+      "title": "matti_v04",
+      "file": "matti_v04.plz",
+      "folder": "3Platformer",
+      "timestamp": "1657014550"
    },
    {
       "type": "link",
-      "title": "LightsOut",
-      "file": "LightsOut.plz",
-      "folder": "4Puzzle",
-      "timestamp": "1650225382"
+      "title": "LodeRunner_Pokitto_v1",
+      "file": "LodeRunner_Pokitto_v1.plz",
+      "folder": "3Platformer",
+      "timestamp": "1657014550"
    },
    {
       "type": "link",
-      "title": "PiCross",
-      "file": "PiCross.plz",
-      "folder": "4Puzzle",
-      "timestamp": "1650225382"
+      "title": "L'Abbaye des morts",
+      "file": "L'Abbaye des morts.plz",
+      "folder": "3Platformer",
+      "timestamp": "1657014550"
    },
    {
       "type": "link",
-      "title": "Pok15",
-      "file": "Pok15.plz",
+      "title": "Pokaquarium",
+      "file": "Pokaquarium.plz",
       "folder": "4Puzzle",
-      "timestamp": "1650225382"
+      "timestamp": "1657014550"
+   },
+   {
+      "type": "link",
+      "title": "pokittaire",
+      "file": "pokittaire.plz",
+      "folder": "4Puzzle",
+      "timestamp": "1657014550"
    },
    {
       "type": "link",
       "title": "MineSweeper",
       "file": "MineSweeper.plz",
       "folder": "4Puzzle",
-      "timestamp": "1650225382"
+      "timestamp": "1657014550"
    },
    {
       "type": "link",
-      "title": "RoadTrip",
-      "file": "RoadTrip.plz",
-      "folder": "5Racing",
-      "timestamp": "1650225382"
-   },
-   {
-      "type": "link",
-      "title": "Regicide",
-      "file": "Regicide.plz",
-      "folder": "6Strategy",
-      "timestamp": "1650225382"
+      "title": "pok2048",
+      "file": "pok2048.plz",
+      "folder": "4Puzzle",
+      "timestamp": "1657014550"
    }
 ]
 }

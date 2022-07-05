@@ -1,54 +1,54 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/8Utils",
-"timestamp":"1649413979",
+"timestamp":"1657014550",
 "list": [
    {
       "type": "plz",
       "title": "Xploritto",
       "file": "Xploritto.plz",
-      "timestamp": "1649413979"
+      "timestamp": "1655718833"
    },
    {
       "type": "plz",
       "title": "lilide",
       "file": "lilide.plz",
-      "timestamp": "1649413979"
+      "timestamp": "1655718833"
    },
    {
       "type": "plz",
       "title": "pokipad",
       "file": "pokipad.plz",
-      "timestamp": "1649413979"
+      "timestamp": "1657014550"
    },
    {
       "type": "bin",
       "title": "sfxed11k",
       "file": "sfxed11k.bin",
-      "timestamp": "1590499010"
+      "timestamp": "1655718833"
    },
    {
       "type": "bin",
       "title": "sfxed16k",
       "file": "sfxed16k.bin",
-      "timestamp": "1590499010"
+      "timestamp": "1655718833"
    },
    {
       "type": "bin",
       "title": "sfxed22k",
       "file": "sfxed22k.bin",
-      "timestamp": "1590499010"
+      "timestamp": "1655718833"
    },
    {
       "type": "bin",
       "title": "sfxed8k",
       "file": "sfxed8k.bin",
-      "timestamp": "1590499010"
+      "timestamp": "1655718833"
    },
    {
       "type": "bin",
       "title": "tracker",
       "file": "tracker.bin",
-      "timestamp": "1590499010"
+      "timestamp": "1655718833"
    }
 ]
 }
