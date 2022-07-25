@@ -1,12 +1,18 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/0Action",
-"timestamp":"1657014549",
+"timestamp":"1658736891",
 "list": [
    {
       "type": "plz",
       "title": "101stars",
       "file": "101stars.plz",
       "timestamp": "1657014549"
+   },
+   {
+      "type": "plz",
+      "title": "1nvader",
+      "file": "1nvader.plz",
+      "timestamp": "1658736891"
    },
    {
       "type": "plz",
@@ -43,12 +49,6 @@
       "title": "NotDeadYet",
       "file": "NotDeadYet.plz",
       "timestamp": "1655718832"
-   },
-   {
-      "type": "plz",
-      "title": "OBS",
-      "file": "OBS.plz",
-      "timestamp": "1657014549"
    },
    {
       "type": "plz",

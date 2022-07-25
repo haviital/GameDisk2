@@ -1,0 +1,4 @@
+file: "/home/hannu/git/GameDisk2/0Action/1nvader.pop" --> "0Action/1nvader.pop"
+file: "/home/hannu/git/GameDisk2/0Action/1nvader_data/1nvad_02.raw" --> "_ROOT_/1nvad_02.raw"
+file: "/home/hannu/git/GameDisk2/0Action/1nvader_data/1nvad_00.raw" --> "_ROOT_/1nvad_00.raw"
+file: "/home/hannu/git/GameDisk2/0Action/1nvader_data/1nvad_01.raw" --> "_ROOT_/1nvad_01.raw"

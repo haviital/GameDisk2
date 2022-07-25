@@ -1,6 +1,6 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/6Strategy",
-"timestamp":"1657014550",
+"timestamp":"1658736891",
 "list": [
    {
       "type": "plz",
@@ -19,6 +19,12 @@
       "title": "Euchre",
       "file": "Euchre.plz",
       "timestamp": "1657014550"
+   },
+   {
+      "type": "plz",
+      "title": "MicroTD",
+      "file": "MicroTD.plz",
+      "timestamp": "1658736891"
    },
    {
       "type": "plz",
