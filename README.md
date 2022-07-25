@@ -13,6 +13,6 @@
 ```
    cd ..
    git add .
-   git commit -m"generate plz-files"
+   git commit -m"generated plz-files"
    git push 
 ```
