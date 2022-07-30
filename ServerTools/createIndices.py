@@ -433,3 +433,15 @@ rootFolderName = os.path.basename(rootDir)
 CreateSubdirIndices()
 
 CreateRootIndex()
+
+#!!HV
+#newFileBytes = []
+#for i in range(100):
+#    newFileBytes.append(i)
+#
+#myfile = open("test_5m.dat", "wb")
+#newFileByteArray = bytearray(newFileBytes)
+#for i in range(50000):
+#    myfile.write(newFileByteArray)
+#myfile.close()
+
