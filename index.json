@@ -1,12 +1,12 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master",
-"timestamp":"1658736891",
+"timestamp":"1659903686",
 "list": [
    {
       "type": "dir",
       "dirtitle": "Latest",
       "file": "0_1Latest",
-      "timestamp": "1658736891"
+      "timestamp": "1659903686"
    },
    {
       "type": "dir",
@@ -30,7 +30,7 @@
       "type": "dir",
       "dirtitle": "Arcade",
       "file": "2Arcade",
-      "timestamp": "1658736891"
+      "timestamp": "1659903686"
    },
    {
       "type": "dir",

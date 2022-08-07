@@ -1,6 +1,6 @@
 {
 "path":"https://raw.githubusercontent.com/haviital/GameDisk2/master/2Arcade",
-"timestamp":"1658736891",
+"timestamp":"1659903686",
 "list": [
    {
       "type": "plz",
@@ -66,7 +66,7 @@
       "type": "plz",
       "title": "OBS",
       "file": "OBS.plz",
-      "timestamp": "1658736891"
+      "timestamp": "1659903686"
    },
    {
       "type": "plz",
@@ -103,6 +103,12 @@
       "title": "RainCat",
       "file": "RainCat.bin",
       "timestamp": "1655718832"
+   },
+   {
+      "type": "plz",
+      "title": "Scrambler",
+      "file": "Scrambler.plz",
+      "timestamp": "1659903686"
    },
    {
       "type": "plz",

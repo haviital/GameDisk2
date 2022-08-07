@@ -1,0 +1,3 @@
+file: "/home/hannu/git/GameDisk2/2Arcade/Scrambler.pop" --> "2Arcade/Scrambler.pop"
+file: "/home/hannu/git/GameDisk2/2Arcade/Scrambler_data/music/Scram_02.raw" --> "music/Scram_02.raw"
+file: "/home/hannu/git/GameDisk2/2Arcade/Scrambler_data/music/Scram_01.raw" --> "music/Scram_01.raw"
